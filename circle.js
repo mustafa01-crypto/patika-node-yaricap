@@ -19,3 +19,7 @@ function cevreBul(r){
 }
 
 alanBul(args[0]);
+cevreBul(args[0]);
+
+module.exports = alanBul;
+module.exports = cevreBul;
