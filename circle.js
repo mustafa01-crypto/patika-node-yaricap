@@ -1,6 +1,6 @@
 
 pi = 3.14;
-const args = process.argv.slice(2)
+const args = process.argv.slice(2);
 
 function alanBul(r){
 
@@ -19,7 +19,3 @@ function cevreBul(r){
 }
 
 alanBul(args[0]);
-cevreBul(args[0]);
-
-module.exports = cevreBul;
-module.exports = alanBul;
