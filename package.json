@@ -1,0 +1,24 @@
+{
+  "name": "patika-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafa01-crypto/patika-node-yaricap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafa01-crypto/patika-node-yaricap/issues"
+  },
+  "homepage": "https://github.com/mustafa01-crypto/patika-node-yaricap#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.2",
+    "koa": "^2.13.4"
+  }
+}
